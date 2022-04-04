@@ -16,6 +16,20 @@ I'm 34 years old. I started learning web development in 2019. I am currently wor
 - Git
 - Linux
 
+## Code Example
+``` js
+const unluckyDays = (year) => {
+  let result = 0;
+  for (let month = 0; month < 12; month += 1) {
+    const date = new Date(year, month, 13);
+    if (date.getDay() === 5) {
+      result += 1;
+    }
+  }
+  return result;
+};
+```
+
 ## Education
 - __University:__ Perm National Research Polytechnic University, Information Security
 - __Courses:__ [HTML Academy(4 intensives)](https://www.htmlacademy.ru)
