@@ -1,1 +1,1 @@
-[rsschool-cv](https://Qwanead.github.io/rsschool-cv/cv)
+[rsschool-cv](https://Qwanead.github.io/rsschool-cv/)
