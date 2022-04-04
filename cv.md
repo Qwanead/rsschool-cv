@@ -1,4 +1,4 @@
-    # Anton Rassadnikov
+# Anton Rassadnikov
 
 ## Contacts
 - __Location:__ Perm, Russia
